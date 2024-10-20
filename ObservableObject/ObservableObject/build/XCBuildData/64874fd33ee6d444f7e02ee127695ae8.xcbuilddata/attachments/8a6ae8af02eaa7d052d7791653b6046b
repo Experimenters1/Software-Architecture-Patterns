@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObject-master.dia",
+    "emit-module-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObject-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObject-master-emit-module.dia",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObject-master.swiftdeps"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/ObservableObject/ContentView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/ObservableObject/CounterModel.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel.dia",
+    "index-unit-output-path" : "/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/CounterModel~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/ObservableObject/ObservableObjectApp.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp.dia",
+    "index-unit-output-path" : "/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/ObservableObjectApp~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/ObservableObject/ObservableObject/build/ObservableObject.build/Debug-iphoneos/ObservableObject.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

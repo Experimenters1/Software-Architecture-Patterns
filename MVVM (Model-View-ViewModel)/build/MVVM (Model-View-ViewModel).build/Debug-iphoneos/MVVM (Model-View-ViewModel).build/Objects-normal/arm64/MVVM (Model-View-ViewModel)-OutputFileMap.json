@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM (Model-View-ViewModel)-master.dia",
+    "emit-module-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM (Model-View-ViewModel)-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM (Model-View-ViewModel)-master-emit-module.dia",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM (Model-View-ViewModel)-master.swiftdeps"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/MVVM (Model-View-ViewModel)/MVVM__Model_View_ViewModel_App.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App.dia",
+    "index-unit-output-path" : "/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/MVVM__Model_View_ViewModel_App~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/MVVM (Model-View-ViewModel)/Model/Product.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product.dia",
+    "index-unit-output-path" : "/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/Product~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/MVVM (Model-View-ViewModel)/View/ProductListView.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView.dia",
+    "index-unit-output-path" : "/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListView~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/MVVM (Model-View-ViewModel)/ViewModel/ProductListViewModel.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel.dia",
+    "index-unit-output-path" : "/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/ProductListViewModel~partial.swiftmodule"
+  },
+  "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/build/MVVM (Model-View-ViewModel).build/Debug-iphoneos/MVVM (Model-View-ViewModel).build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

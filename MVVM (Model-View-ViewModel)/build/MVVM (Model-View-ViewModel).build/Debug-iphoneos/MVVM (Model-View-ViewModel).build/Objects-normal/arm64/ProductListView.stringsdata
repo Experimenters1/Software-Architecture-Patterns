@@ -1,0 +1,16 @@
+{
+  "source": "/Users/huyvu/Desktop/Software-Architecture-Patterns/MVVM (Model-View-ViewModel)/MVVM (Model-View-ViewModel)/View/ProductListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, World!",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}
